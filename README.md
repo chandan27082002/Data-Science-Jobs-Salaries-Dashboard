@@ -24,7 +24,7 @@ The data used for this dashboard is sourced from a CSV file containing data scie
 * Company Location
 * Employee Residence
 * Job Title
-You can find the dataset in the repository under data/data_science_jobs_salaries.csv (Note: Ensure you upload the CSV file to your GitHub repository in the specified folder).
+You can find the dataset in the repository under data/data_science_jobs_salaries.csv 
 
 
 # Project Insights
