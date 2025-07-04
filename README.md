@@ -29,7 +29,7 @@ You can find the dataset in the repository under data/data_science_jobs_salaries
 
 # Project Insights
 
-* Salary Trends by Experience: Senior-level data scientists earn significantly higher salaries (up to ~$350K USD) compared to entry-level (~$100K USD), with full-time employment being the most lucrative.
+* Salary Trends by Experience: Senior-level data scientists earn significantly higher salaries(up to ~$350K USD) compared to entry-level (~$100K USD), with full-time employment being the most lucrative.
 * Company Size Distribution: Medium-sized companies dominate the data science job market (52.71%), followed by Large (32.62%) and Small (13.67%) companies.
 * Geographical Salary Variations: The map highlights that countries like the US and parts of Europe offer higher average salaries for data science roles compared to other regions.
 * Top Employee Residences: The US leads with 332 data science professionals, followed by Great Britain (44) and India (30).
