@@ -3,7 +3,7 @@
 # Overview
 
 This dashboard provides a comprehensive analysis of data science job salaries, visualizing key trends and patterns across various dimensions such as experience level, employment type, company size, location, and job titles.
-![AskTube Banner](https://raw.githubusercontent.com/chandan27082002/LLM-PROJECT-AskTube-AI-Talk-to-the-YouTube-Video/main/image.png)
+![AskTube Banner](https://github.com/chandan27082002/Data-Science-Jobs-Salaries-Dashboard/blob/main/Dashboard%201%20(2).png)
 # Questions Solved by the Dashboard
 
 The dashboard addresses the following questions:
